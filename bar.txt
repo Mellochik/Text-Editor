@@ -1,0 +1,1 @@
+F1 - help F2 - save F3 - start fill F4 - end fill F5 - copy text F6 - del text F10 - exit
